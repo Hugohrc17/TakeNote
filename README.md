@@ -1,18 +1,7 @@
-# 📝 **Descrição para README.md**
-
 ```markdown
 # 📒 TakeNote - CRUD de Notas
 
-<div align="center">
-
-![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
-![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vuedotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-8.0-512BD4)
-
 **Um sistema simples e eficiente para gerenciamento de notas**
-
-</div>
 
 ## 🚀 Sobre o Projeto
 
@@ -84,8 +73,6 @@ Este projeto foi desenvolvido com foco em:
 - Integração frontend/backend
 - PostgreSQL e operações CRUD
 - Boas práticas de desenvolvimento
-
----
 
 <div align="center">
 
