@@ -5,7 +5,9 @@
 
 ## 🚀 Sobre o Projeto
 
-O **TakeNote** é uma aplicação web desenvolvida para estudos, implementando um CRUD completo (Create, Read, Update, Delete) de notas. O projeto combina o poder do **.NET 8** no backend com a flexibilidade do **Vue.js 3** no frontend.
+O **TakeNote** é uma aplicação web desenvolvida para estudos, implementando um CRUD completo
+(Create, Read, Update, Delete) de notas. O projeto combina o poder do **.NET 8** no backend
+com a flexibilidade do **Vue.js 3** no frontend.
 
 ### ✨ Funcionalidades
 
@@ -18,8 +20,7 @@ O **TakeNote** é uma aplicação web desenvolvida para estudos, implementando u
 ## 🏗️ Arquitetura
 
 ### Backend (.NET 8)
-```mermaid
-graph LR
+
     A[Controllers] --> B[Services]
     B --> C[Entity Framework]
     C --> D[PostgreSQL]
