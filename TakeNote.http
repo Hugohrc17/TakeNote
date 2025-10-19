@@ -1,0 +1,6 @@
+@TakeNote_HostAddress = http://localhost:5145
+
+GET {{TakeNote_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
