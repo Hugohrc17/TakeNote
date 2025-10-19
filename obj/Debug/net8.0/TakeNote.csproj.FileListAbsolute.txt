@@ -127,3 +127,6 @@ D:\projetos\TakeNote\obj\Debug\net8.0\refint\TakeNote.dll
 D:\projetos\TakeNote\obj\Debug\net8.0\TakeNote.pdb
 D:\projetos\TakeNote\obj\Debug\net8.0\TakeNote.genruntimeconfig.cache
 D:\projetos\TakeNote\obj\Debug\net8.0\ref\TakeNote.dll
+D:\projetos\TakeNote\bin\Debug\net8.0\Npgsql.dll
+D:\projetos\TakeNote\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\projetos\TakeNote\obj\Debug\net8.0\TakeNote.sourcelink.json
